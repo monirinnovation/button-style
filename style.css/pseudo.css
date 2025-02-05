@@ -1,0 +1,48 @@
+.btn{
+    display: block;
+    padding: 15px 25px;
+    background-color:#04AA6D;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+
+.btn:hover{
+    background-color:#046c4e ;
+}
+
+.button{
+    margin-left: 200px;
+    background-color: #04AA6D;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-size:16px;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+
+
+}
+
+.button:hover{
+    background-color: #046c4e;
+}
+
+.button:active {
+    background-color: #FF5733;
+}
+
+.button:link{
+    background-color: #04AA6D;
+
+}
+/* .button:visited{
+    background-color: gray;
+} */
